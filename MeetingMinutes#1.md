@@ -1,84 +1,95 @@
-# COIT13146 System and Network Administration  
-## Project Team Meeting #1
+## COIT13146 System and Network Administration
 
-**DATE OF MEETING:** 04/05/2026 – 25/05/2026  
-**LOCATION OF MEETING:** WhatsApp Group Chat and CQUniversity Campus  
-**TIME MEETING STARTED:** Ongoing discussion through group chat  
-**TIME MEETING ENDED:** Continued during university class session  
+# PROJECT TEAM MEETING #1
 
-### ATTENDEES:
-- Ashikha 
-- Kunj 
-- Haseeb  
+# DATE OF MEETING: 04/05/2026
 
-### MEMBERS ABSENT:
-- None  
+# LOCATION OF MEETING: WhatsApp Group Chat
 
-### MEETING CALLED BY:
-- Kunj  
+# TIME MEETING STARTED: 7:00 PM
 
-### MINUTES TAKEN BY:
-- Ashikha  
+# TIME MEETING ENDED: 8:30 PM
 
----
+# ATTENDEES:
+
+* Ashikha Reddy Pakkiru (12226683)
+* Kunj
+* Haseeb
+
+# MEMBERS ABSENT:
+
+* None
+
+# MEETING CALLED BY:
+
+* Kunj
+
+# MINUTES TAKEN BY:
+
+* Ashikha
 
 # AGENDA:
-- Create communication group for project discussion  
-- Discuss assessment requirements  
-- Divide project tasks among members  
-- Decide communication and meeting methods  
-- Plan VM setup and network configuration  
-- Discuss project timeline and responsibilities  
 
-### Additional agenda items:
-- Weekly progress discussions  
-- Documentation and screenshot collection  
+* Decide on first project steps
+* Appoint team leader
+* Allocate project responsibilities
+* Discuss communication methods
+* Review project requirements
 
----
+# Additional Agenda Items:
+
+* Evidence collection requirements
+* Weekly progress reviews
 
 # DISCUSSIONS OF AGENDA ITEMS:
 
-The group first created a WhatsApp group on 04/05/2026 to communicate regarding the COIT13146 System and Network Administration project. Initial discussions were held through the group chat instead of an in-person meeting. Members discussed the assessment requirements, project expectations, and the importance of starting early to avoid last-minute pressure.
+The team created a WhatsApp group to coordinate communication and project activities. Members reviewed the project specification and discussed the server, network, security and documentation requirements.
 
-Kunj informed the group that all communication, doubts, updates and project-related discussions would be handled through the group chat. Members were advised to regularly attend class sessions and actively contribute towards the project. The group agreed to read the project specifications carefully and share useful findings and progress updates with each other.
+The team agreed that all members would contribute towards the project while taking primary responsibility for different components.
 
-The team agreed that although everyone would support and help each other whenever required, each member should mainly focus on completing their assigned section properly.
+# Task allocation was agreed as follows:
 
-Task allocation was discussed and finalised:
+# Kunj:
 
-- **Kunj** will handle the router/firewall server (rocky) and DHCP server (darwin).
-- **Haseeb** will handle the web server (adelaide), SSH server (sydney), Git server (gladstone), backup server (bundaberg) and VM configurations.
-- **Ashikha** will handle documentation, testing evidence, meeting minutes, report coordination and final submission preparation.
+* Rocky router and firewall
+* Darwin DHCP server
+* Network design and IP allocation
 
-The group also agreed to meet every Monday during the 9:00 AM – 12:00 PM class to discuss progress, technical issues and remaining tasks.
+# Haseeb:
 
-On 25/05/2026, the group met at university and started practical work on the project setup. Members worked together on configuring VM network settings and IP address configurations.
+* Adelaide web server
+* Sydney SSH server
+* Gladstone Git server
+* Bundaberg backup server
+* VM preparation and configuration
 
-During testing, Kunj and Haseeb attempted to establish communication between their laptops and virtual machines to ensure all VMs were operating on the same network and could communicate with each other correctly. Different methods were attempted, including using an Ethernet cable connection and connecting both laptops to the university WiFi network. However, communication between the systems was unsuccessful due to network configuration issues. The group discussed possible causes, including VirtualBox adapter settings, internal network configuration, and DHCP/IP assignment issues. Members agreed to continue troubleshooting the problem during the next work session.
+# Ashikha:
 
-The group also discussed the importance of taking screenshots, saving configurations, and documenting progress throughout the project instead of leaving evidence collection until the final week.
+* Documentation and report preparation
+* Meeting minutes
+* Evidence collection
+* Testing records
+* Final submission coordination
 
-The team confirmed that the initial VM setup and network configuration tasks had been completed successfully. The next stage of the project will focus on server simulation, implementation, testing and completing the remaining project requirements.
+The group agreed to communicate primarily through WhatsApp and hold weekly discussions during Monday classes.
 
----
+Members discussed the importance of collecting screenshots, configuration files and testing evidence throughout the project rather than leaving documentation until the end.
 
 # ACTION ITEMS:
 
-| Member | Action Item | Due Date |
-|---|---|---|
-| Kunj | Continue firewall, routing and DHCP implementation/testing | Before next meeting |
-| Haseeb | Continue server setup, simulation and network troubleshooting | Before next meeting |
-| Ashikha | Continue report documentation, testing records and meeting minutes | Before next meeting |
-
----
+| Member  | Action Item                                      | Due Date          |
+| ------- | ------------------------------------------------ | ----------------- |
+| Kunj    | Begin DHCP and firewall implementation           | Before Meeting #2 |
+| Haseeb  | Prepare assigned VMs and record MAC addresses    | Before Meeting #2 |
+| Ashikha | Begin report structure and project documentation | Before Meeting #2 |
 
 # DECISION:
-### Group Leader is: Ashikha Reddy Pakkiru
 
-### Additional Decisions:
-- Weekly discussions will be conducted every Monday during class hours.
-- All screenshots, scripts and configuration files must be saved progressively.
-- Team members agreed to support each other whenever technical issues arise.
-- The next project phase will focus on simulation, implementation and testing.
-- Project work will be completed progressively over the next 15 days.
-- The WhatsApp group will remain the main communication platform for project coordination.
+Group Leader: Ashikha Reddy Pakkiru
+
+# Additional Decisions:
+
+* WhatsApp will be used for project communication.
+* Weekly progress discussions will occur every Monday.
+* Evidence collection will be performed throughout the project.
+* Technical issues will be reported immediately to the group.
