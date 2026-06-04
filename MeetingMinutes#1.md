@@ -1,95 +1,79 @@
 # COIT13146 System and Network Administration
+## Project Team Meeting #1
 
-### PROJECT TEAM MEETING #1
+**DATE OF MEETING:** 04/05/2026
 
-### DATE OF MEETING: 04/05/2026
+**LOCATION OF MEETING:** WhatsApp Group Chat
 
-### LOCATION OF MEETING: WhatsApp Group Chat
+**TIME MEETING STARTED:** 7:00 PM
 
-### TIME MEETING STARTED: 7:00 PM
+**TIME MEETING ENDED:** 8:30 PM
 
-### TIME MEETING ENDED: 8:30 PM
+### ATTENDEES:
+- Ashikha Reddy Pakkiru
+- Kunj
+- Haseeb
 
-## ATTENDEES:
+### MEMBERS ABSENT:
+- None
 
-* Ashikha Reddy Pakkiru (12226683)
-* Kunj
-* Haseeb
+### MEETING CALLED BY:
+- Kunj
 
-## MEMBERS ABSENT:
+### MINUTES TAKEN BY:
+- Ashikha
 
-* None
+---
 
-## MEETING CALLED BY:
+# AGENDA:
 
-* Kunj
+- Decide on the first steps of the project
+- Appoint a team leader
+- Divide project responsibilities
+- Discuss communication methods
+- Review project requirements
 
-## MINUTES TAKEN BY:
+### Additional agenda items:
+- Evidence collection requirements
+- Weekly progress reviews
 
-* Ashikha
+---
 
-## AGENDA:
+# DISCUSSIONS OF AGENDA ITEMS:
 
-* Decide on first project steps
-* Appoint team leader
-* Allocate project responsibilities
-* Discuss communication methods
-* Review project requirements
+The team created a WhatsApp group to coordinate communication and project activities. Members reviewed the project specification and discussed the network, server, backup, security and documentation requirements.
 
-## Additional Agenda Items:
+The team agreed to work collaboratively while assigning primary responsibilities for specific sections of the project.
 
-* Evidence collection requirements
-* Weekly progress reviews
+Task allocation was agreed as follows:
 
-## DISCUSSIONS OF AGENDA ITEMS:
+- **Kunj** – Rocky router, firewall implementation, Darwin DHCP server, network design and IP allocation.
+- **Haseeb** – Adelaide web server, Sydney SSH server, Gladstone Git server, Bundaberg backup server and VM preparation.
+- **Ashikha** – Documentation, meeting minutes, testing evidence collection, report preparation and final submission coordination.
 
-The team created a WhatsApp group to coordinate communication and project activities. Members reviewed the project specification and discussed the server, network, security and documentation requirements.
+The group agreed that WhatsApp would be used as the primary communication platform and that weekly progress discussions would be held during Monday classes.
 
-The team agreed that all members would contribute towards the project while taking primary responsibility for different components.
+The importance of collecting screenshots, scripts, configuration files and testing evidence throughout the project was discussed. Members agreed not to leave documentation until the final week.
 
-# Task allocation was agreed as follows:
+---
 
-## Kunj:
+# ACTION ITEMS:
 
-* Rocky router and firewall
-* Darwin DHCP server
-* Network design and IP allocation
-
-## Haseeb:
-
-* Adelaide web server
-* Sydney SSH server
-* Gladstone Git server
-* Bundaberg backup server
-* VM preparation and configuration
-
-## Ashikha:
-
-* Documentation and report preparation
-* Meeting minutes
-* Evidence collection
-* Testing records
-* Final submission coordination
-
-The group agreed to communicate primarily through WhatsApp and hold weekly discussions during Monday classes.
-
-Members discussed the importance of collecting screenshots, configuration files and testing evidence throughout the project rather than leaving documentation until the end.
-
-## ACTION ITEMS:
-
-| Member  | Action Item                                      | Due Date          |
-| ------- | ------------------------------------------------ | ----------------- |
-| Kunj    | Begin DHCP and firewall implementation           | Before Meeting #2 |
-| Haseeb  | Prepare assigned VMs and record MAC addresses    | Before Meeting #2 |
+| Member | Action Item | Due Date |
+|----------|------------|------------|
+| Kunj | Begin DHCP and firewall implementation | Before Meeting #2 |
+| Haseeb | Prepare assigned VMs and record MAC addresses | Before Meeting #2 |
 | Ashikha | Begin report structure and project documentation | Before Meeting #2 |
 
-## DECISION:
+---
 
-Group Leader: Ashikha Reddy Pakkiru
+# DECISION:
 
-## Additional Decisions:
+### Group Leader is: Ashikha Reddy Pakkiru
 
-* WhatsApp will be used for project communication.
-* Weekly progress discussions will occur every Monday.
-* Evidence collection will be performed throughout the project.
-* Technical issues will be reported immediately to the group.
+### Additional Decisions:
+
+- WhatsApp will be used as the official communication platform.
+- Weekly progress reviews will be conducted every Monday.
+- Evidence collection will occur throughout the project.
+- Technical issues will be reported immediately to the group.
