@@ -1,34 +1,34 @@
-## COIT13146 System and Network Administration
+# COIT13146 System and Network Administration
 
-# PROJECT TEAM MEETING #1
+## PROJECT TEAM MEETING #1
 
-# DATE OF MEETING: 04/05/2026
+## DATE OF MEETING: 04/05/2026
 
-# LOCATION OF MEETING: WhatsApp Group Chat
+## LOCATION OF MEETING: WhatsApp Group Chat
 
-# TIME MEETING STARTED: 7:00 PM
+## TIME MEETING STARTED: 7:00 PM
 
-# TIME MEETING ENDED: 8:30 PM
+## TIME MEETING ENDED: 8:30 PM
 
-# ATTENDEES:
+## ATTENDEES:
 
 * Ashikha Reddy Pakkiru (12226683)
 * Kunj
 * Haseeb
 
-# MEMBERS ABSENT:
+## MEMBERS ABSENT:
 
 * None
 
-# MEETING CALLED BY:
+## MEETING CALLED BY:
 
 * Kunj
 
-# MINUTES TAKEN BY:
+## MINUTES TAKEN BY:
 
 * Ashikha
 
-# AGENDA:
+## AGENDA:
 
 * Decide on first project steps
 * Appoint team leader
@@ -36,12 +36,12 @@
 * Discuss communication methods
 * Review project requirements
 
-# Additional Agenda Items:
+## Additional Agenda Items:
 
 * Evidence collection requirements
 * Weekly progress reviews
 
-# DISCUSSIONS OF AGENDA ITEMS:
+## DISCUSSIONS OF AGENDA ITEMS:
 
 The team created a WhatsApp group to coordinate communication and project activities. Members reviewed the project specification and discussed the server, network, security and documentation requirements.
 
@@ -49,13 +49,13 @@ The team agreed that all members would contribute towards the project while taki
 
 # Task allocation was agreed as follows:
 
-# Kunj:
+## Kunj:
 
 * Rocky router and firewall
 * Darwin DHCP server
 * Network design and IP allocation
 
-# Haseeb:
+## Haseeb:
 
 * Adelaide web server
 * Sydney SSH server
@@ -63,7 +63,7 @@ The team agreed that all members would contribute towards the project while taki
 * Bundaberg backup server
 * VM preparation and configuration
 
-# Ashikha:
+## Ashikha:
 
 * Documentation and report preparation
 * Meeting minutes
@@ -75,7 +75,7 @@ The group agreed to communicate primarily through WhatsApp and hold weekly discu
 
 Members discussed the importance of collecting screenshots, configuration files and testing evidence throughout the project rather than leaving documentation until the end.
 
-# ACTION ITEMS:
+## ACTION ITEMS:
 
 | Member  | Action Item                                      | Due Date          |
 | ------- | ------------------------------------------------ | ----------------- |
@@ -83,11 +83,11 @@ Members discussed the importance of collecting screenshots, configuration files 
 | Haseeb  | Prepare assigned VMs and record MAC addresses    | Before Meeting #2 |
 | Ashikha | Begin report structure and project documentation | Before Meeting #2 |
 
-# DECISION:
+## DECISION:
 
 Group Leader: Ashikha Reddy Pakkiru
 
-# Additional Decisions:
+## Additional Decisions:
 
 * WhatsApp will be used for project communication.
 * Weekly progress discussions will occur every Monday.
