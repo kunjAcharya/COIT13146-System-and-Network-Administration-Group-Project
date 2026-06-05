@@ -1,4 +1,4 @@
-# CQUNIX System and Network Administration Project
+# System and Network Administration Project
 
 ## COIT13146 – System and Network Administration
 **Term 1, 2026**
