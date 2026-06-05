@@ -9,7 +9,7 @@
 
 This repository contains the files, documentation, planning records, meeting minutes and project artefacts for the COIT13146 System and Network Administration Group Project.
 
-The project involves designing, implementing and documenting a Linux-based network infrastructure for a software development company called **cqunix**.
+The project involves designing, implementing and documenting a Linux-based network infrastructure for a software development company.
 
 The infrastructure includes:
 
@@ -30,7 +30,7 @@ The infrastructure includes:
 
 | Name | Role |
 |--------|--------|
-| Ashikha Reddy Pakkiru (12226683) | Documentation Lead, Meeting Minutes, Testing Evidence, Report Preparation |
+| Ashikha Reddy Pakkiru | Documentation Lead, Meeting Minutes, Testing Evidence, Report Preparation |
 | Kunj | Network Design, DHCP Server, Router and Firewall |
 | Haseeb | Server Configuration, VM Preparation, Web, SSH, Git and Backup Servers |
 
