@@ -1,4 +1,4 @@
-# CQUNIX Project Planning
+# Project Planning
 
 ## Project Overview
 
