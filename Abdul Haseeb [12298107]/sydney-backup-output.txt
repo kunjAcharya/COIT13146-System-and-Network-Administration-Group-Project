@@ -1,0 +1,22 @@
+etc/ssh/
+etc/ssh/ssh_host_rsa_key
+etc/ssh/ssh_host_ed25519_key.pub
+etc/ssh/ssh_config.d/
+etc/ssh/ssh_host_rsa_key.pub
+etc/ssh/ssh_host_ecdsa_key
+etc/ssh/ssh_host_dsa_key
+etc/ssh/ssh_config
+etc/ssh/ssh_import_id
+etc/ssh/sshd_config
+etc/ssh/ssh_host_ecdsa_key.pub
+etc/ssh/moduli
+etc/ssh/sshd_config.d/
+etc/ssh/sshd_config.d/50-cloud-init.conf
+etc/ssh/ssh_host_ed25519_key
+etc/ssh/ssh_host_dsa_key.pub
+etc/passwd
+etc/group
+usr/local/bin/ssh-audit.sh
+etc/cron.d/ssh-audit
+Backup timestamp: Thu Jun  4 09:57:05 AM UTC 2026
+Backup owner: root

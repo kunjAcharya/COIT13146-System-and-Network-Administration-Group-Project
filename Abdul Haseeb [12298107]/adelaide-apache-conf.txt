@@ -1,0 +1,14 @@
+<VirtualHost *:80>
+    ServerAdmin admin@cqunix.com
+    DocumentRoot /var/www/html/dokuwiki
+    ServerName adelaide.cqunix.com
+
+    <Directory /var/www/html/dokuwiki>
+        Options +FollowSymLinks
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    ErrorLog ${APACHE_LOG_DIR}/dokuwiki_error.log
+    CustomLog ${APACHE_LOG_DIR}/dokuwiki_access.log combined
+</VirtualHost>

@@ -1,0 +1,32 @@
+var/git-repo/
+var/git-repo/cqunix.git/
+var/git-repo/cqunix.git/objects/
+var/git-repo/cqunix.git/objects/info/
+var/git-repo/cqunix.git/objects/pack/
+var/git-repo/cqunix.git/info/
+var/git-repo/cqunix.git/info/exclude
+var/git-repo/cqunix.git/branches/
+var/git-repo/cqunix.git/refs/
+var/git-repo/cqunix.git/refs/tags/
+var/git-repo/cqunix.git/refs/heads/
+var/git-repo/cqunix.git/config
+var/git-repo/cqunix.git/hooks/
+var/git-repo/cqunix.git/hooks/pre-merge-commit.sample
+var/git-repo/cqunix.git/hooks/commit-msg.sample
+var/git-repo/cqunix.git/hooks/applypatch-msg.sample
+var/git-repo/cqunix.git/hooks/post-update.sample
+var/git-repo/cqunix.git/hooks/update.sample
+var/git-repo/cqunix.git/hooks/pre-applypatch.sample
+var/git-repo/cqunix.git/hooks/pre-commit.sample
+var/git-repo/cqunix.git/hooks/fsmonitor-watchman.sample
+var/git-repo/cqunix.git/hooks/push-to-checkout.sample
+var/git-repo/cqunix.git/hooks/pre-receive.sample
+var/git-repo/cqunix.git/hooks/pre-push.sample
+var/git-repo/cqunix.git/hooks/prepare-commit-msg.sample
+var/git-repo/cqunix.git/hooks/pre-rebase.sample
+var/git-repo/cqunix.git/description
+var/git-repo/cqunix.git/HEAD
+etc/passwd
+etc/group
+Backup timestamp: Thu Jun  4 09:58:09 AM UTC 2026
+Backup owner: root
