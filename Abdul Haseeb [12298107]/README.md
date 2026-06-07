@@ -65,7 +65,7 @@ Files included:
 - gladstone-backup-output.txt
 - readme-backup.txt
 - bundaberg-backup-files.png
-- bundaberg_password-ageging.png
+- bundaberg-password-ageing.png
 - bundaberg-passwd.txt
 - bundaberg-group.txt
 - bundaberg-sudoers.txt
