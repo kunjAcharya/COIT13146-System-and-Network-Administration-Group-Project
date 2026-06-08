@@ -66,8 +66,6 @@ The project aims to:
 
 ## Repository Structure
 
-## Repository Structure
-
 ```text
 COIT13146-System-and-Network-Administration-Group-Project/
 │
