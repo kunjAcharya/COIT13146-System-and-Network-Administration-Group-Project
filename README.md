@@ -101,16 +101,13 @@ COIT13146-System-and-Network-Administration-Group-Project/
 ├── Ashikha Reddy Pakkiru [12226683]/
     ├── README.md │
     ├── Planning.md │
-    ├── MeetingMinutes#1.md │
-    ├── MeetingMinutes#2.md │
-    ├── MeetingMinutes#3.md │
+    ├── MeetingMinutes.md │
     ├── contribution-summary.md │
     ├── dokuwiki-pages.md │
-    ├── dokuwiki_access-instruction.png │
+    ├── dokuwiki_access-instructions.png │
     ├── dokuwiki_certificate-management.png │
     ├── dokuwiki_meeting-minutes.png │
     ├── dokuwiki_password-policy.png │
-    └── meeting-minutes-start.txt │
 │
 └── Kunj Acharya [12216328]/
     ├── ReadMe.md
