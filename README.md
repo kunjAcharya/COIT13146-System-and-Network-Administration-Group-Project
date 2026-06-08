@@ -66,16 +66,48 @@ The project aims to:
 
 ## Repository Structure
 
-```text
-planning.md
-meeting1.md
-meeting2.md
-meeting3.md
-documentation/
-screenshots/
-scripts/
-configs/
-```
+COIT13146-System-and-Network-Administration-Group-Project/
+│
+├── README.md
+│
+├── Abdul Haseeb [12298107]/
+│   ├── README.md
+│   ├── adelaide-apache-conf.txt
+│   ├── adelaide-ssl-conf.txt
+│   ├── adelaide-certificate.pem
+│   ├── adelaide-backup.sh
+│   ├── adelaide-backup-output.txt
+│   ├── sydney-ssh-audit.sh
+│   ├── sydney-backup.sh
+│   ├── sydney-backup-output.txt
+│   ├── gladstone-backup.sh
+│   ├── gladstone-backup-output.txt
+│   ├── readme-backup.txt
+│   ├── passwd/group/sudoers evidence files
+│   └── testing screenshots
+│
+├── Ashikha Reddy Pakkiru [12226683]/
+│   ├── README.md
+│   ├── Planning.md
+│   ├── MeetingMinutes#1.md
+│   ├── MeetingMinutes#2.md
+│   ├── MeetingMinutes#3.md
+│   ├── dokuwiki-pages.md
+│   ├── contribution-summary.md
+│   └── project_evidence
+│
+└── Kunj Acharya [12216328]/
+    ├── ReadMe.md
+    ├── darwin-dhcpd-conf.txt
+    ├── darwin-passwd.txt
+    ├── darwin-group.txt
+    ├── darwin-sudoers.txt
+    ├── rocky-firewall-rules.sh
+    ├── rocky-passwd.txt
+    ├── rocky-group.txt
+    ├── rocky-sudoers.txt
+    ├── firewall-test-evidence.png
+    └── rocky-iptables-rules.png
 
 ---
 
