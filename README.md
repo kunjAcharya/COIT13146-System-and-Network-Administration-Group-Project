@@ -66,6 +66,9 @@ The project aims to:
 
 ## Repository Structure
 
+## Repository Structure
+
+```text
 COIT13146-System-and-Network-Administration-Group-Project/
 │
 ├── README.md
@@ -83,8 +86,19 @@ COIT13146-System-and-Network-Administration-Group-Project/
 │   ├── gladstone-backup.sh
 │   ├── gladstone-backup-output.txt
 │   ├── readme-backup.txt
-│   ├── passwd/group/sudoers evidence files
-│   └── testing screenshots
+│   ├── adelaide-passwd.txt
+│   ├── adelaide-group.txt
+│   ├── adelaide-sudoers.txt
+│   ├── bundaberg-passwd.txt
+│   ├── bundaberg-group.txt
+│   ├── bundaberg-sudoers.txt
+│   ├── gladstone-passwd.txt
+│   ├── gladstone-group.txt
+│   ├── gladstone-sudoers.txt
+│   ├── sydney-passwd.txt
+│   ├── sydney-group.txt
+│   ├── sydney-sudoers.txt
+│   └── implementation screenshots
 │
 ├── Ashikha Reddy Pakkiru [12226683]/
 │   ├── README.md
@@ -108,6 +122,8 @@ COIT13146-System-and-Network-Administration-Group-Project/
     ├── rocky-sudoers.txt
     ├── firewall-test-evidence.png
     └── rocky-iptables-rules.png
+```
+
 
 ---
 
